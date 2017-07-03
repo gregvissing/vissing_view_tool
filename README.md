@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+VissingViewTool::Renderer.copyright 'Greg Vissing', 'All rights reserved'
+```
 
 ## Development
 
